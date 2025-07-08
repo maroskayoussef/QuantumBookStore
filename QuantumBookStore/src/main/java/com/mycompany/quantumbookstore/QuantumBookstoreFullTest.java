@@ -6,7 +6,6 @@ import java.util.List;
  * This class is used to manually test the functionalities of the QuantumBookStore system.
  * It tests adding books, buying different types, and removing outdated books.
  * 
- * Written by: Hana Raouf (student)
  */
 public class QuantumBookstoreFullTest {
 
